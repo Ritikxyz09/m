@@ -1,6 +1,0 @@
-your-repo/
-├── .github/
-│   └── workflows/
-│       └── cloudways-bot.yml
-├── cloudways_bot.py
-└── requirements.txt
